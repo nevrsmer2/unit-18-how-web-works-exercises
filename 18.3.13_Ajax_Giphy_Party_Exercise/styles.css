@@ -1,0 +1,32 @@
+* {
+  font-family: "Quicksand", sans-serif;
+}
+
+body {
+  vertical-align: center;
+  align-items: center;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+#submit-search {
+  color: white;
+  background-color: gray;
+  padding: 5px 10px;
+}
+
+.remove-gifs {
+  background-color: orangered;
+  color: white;
+  padding: 5px 10px;
+}
+
+#search-input {
+  padding: 5px 10px;
+}
+
+.maxWidth {
+  max-width: 300px;
+  display: inline-block;
+}
